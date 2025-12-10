@@ -1,6 +1,6 @@
-# Kasparro AI Agentic Content Generation System  
+# Kasparro Multi-Agent Content Generation System  
 ### Applied AI Engineer Challenge  
-### Submission by: **Muralitharan**
+### Submission by: **Muralitharan S**
 
 This repository contains my solution for the **Kasparro Applied AI Engineer Challenge**, where I built a **multi-agent autonomous content generation system**.  
 The system processes product information and generates:
