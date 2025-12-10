@@ -115,8 +115,8 @@ Windows:
     python src/main.py
 ### Step 5 — Output files will be generated
 Check /outputs/ folder for:
-    product_page.json
-    faq.json
+    product_page.json,
+    faq.json,
     comparison_page.json
 
 ## 6. Key Design Choices
@@ -178,4 +178,4 @@ Check /outputs/ folder for:
         Clean and maintainable coding practices
 Prepared and submitted by:
 **MURALITHARAN S**
-For Kasparro Applied AI Engineer Challenge.
+For Kasparro Applied AI Engineer Challenge.   
